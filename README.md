@@ -14,3 +14,4 @@ How to use
 
 1. Just put all in one folder and run docker-compose up -d
 2. Access Grafana from http://localhost:3000
+3. Import dashboard from import-dashboard.json file, or explore in grafana dashboard.
