@@ -1,4 +1,4 @@
-# mikrotik-monitoring
+# Grafana-Prometheus-SNMP-Exporter-Generator
 Custom grafana monitoring for mikrotik with snmp exporter from (https://github.com/ajidiyantoro/mikrotik-monitoring) and add new snmp.yml from snmp_exporter generator mib
 
 Before using grafana:
